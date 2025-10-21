@@ -1,0 +1,122 @@
+{
+  "en": {
+    "nav": {
+      "about": "About",
+      "fleet": "Fleet",
+      "tours": "Tours",
+      "order": "Order",
+      "contact": "Contact"
+    },
+    "home": {
+      "eyebrow": "Business transfers",
+      "title": "Business transfers across Riga and the Baltics.",
+      "lead": "Mercedes-Benz, Volvo and BMW. Professional chauffeurs. Fixed quotes & invoices."
+    },
+    "about": {
+      "h": "About",
+      "p": "We provide business transfers and private tours across Latvia and the Baltics."
+    },
+    "fleet": {
+      "h": "Our Fleet",
+      "v": "from €50",
+      "e": "from €40",
+      "s": "from €70",
+      "spr": "from €95",
+      "volvo": "from €40",
+      "bmw": "from €40"
+    },
+    "order": {
+      "h": "Order a transfer",
+      "lead": "Fill the form. Address fields offer suggestions."
+    },
+    "contact": {
+      "h": "Contact",
+      "p": "24/7. Call or WhatsApp."
+    },
+    "tours": {
+      "h": "Baltic Tours",
+      "lead": "Riga-based day trips and intercity tours. Add a tour as your destination on the Order page.",
+      "cta": "Request this tour"
+    }
+  },
+  "lv": {
+    "nav": {
+      "about": "Par mums",
+      "fleet": "Autoparks",
+      "tours": "Tūres",
+      "order": "Pasūtīt",
+      "contact": "Kontakti"
+    },
+    "home": {
+      "eyebrow": "Biznesa transfēri",
+      "title": "Biznesa transfēri Rīgā un Baltijā.",
+      "lead": "Mercedes-Benz, Volvo un BMW. Profesionāli šoferi. Fiksētas cenas un rēķini."
+    },
+    "about": {
+      "h": "Par mums",
+      "p": "Nodrošinām biznesa transfērus un privātas tūres Latvijā un Baltijā."
+    },
+    "fleet": {
+      "h": "Autoparks",
+      "v": "no €50",
+      "e": "no €40",
+      "s": "no €70",
+      "spr": "no €95",
+      "volvo": "no €40",
+      "bmw": "no €40"
+    },
+    "order": {
+      "h": "Pasūtīt transfēru",
+      "lead": "Aizpildi formu. Adrešu lauki piedāvā ieteikumus."
+    },
+    "contact": {
+      "h": "Kontakti",
+      "p": "Darbojamies 24/7. Zvani vai WhatsApp."
+    },
+    "tours": {
+      "h": "Baltijas tūres",
+      "lead": "Dienas braucieni un starppilsētu tūres no Rīgas. Pievieno tūri kā galamērķi pasūtījumā.",
+      "cta": "Pieteikt tūri"
+    }
+  },
+  "ru": {
+    "nav": {
+      "about": "О компании",
+      "fleet": "Автопарк",
+      "tours": "Туры",
+      "order": "Заказ",
+      "contact": "Контакты"
+    },
+    "home": {
+      "eyebrow": "Бизнес-трансферы",
+      "title": "Бизнес-трансферы в Риге и по Балтии.",
+      "lead": "Mercedes-Benz, Volvo и BMW. Профессиональные водители. Фиксированные цены и счета."
+    },
+    "about": {
+      "h": "О компании",
+      "p": "Предоставляем бизнес-трансферы и частные туры по Латвии и Балтии."
+    },
+    "fleet": {
+      "h": "Наш автопарк",
+      "v": "от €50",
+      "e": "от €40",
+      "s": "от €70",
+      "spr": "от €95",
+      "volvo": "от €40",
+      "bmw": "от €40"
+    },
+    "order": {
+      "h": "Заказать трансфер",
+      "lead": "Заполните форму. Для адресов есть подсказки."
+    },
+    "contact": {
+      "h": "Контакты",
+      "p": "Круглосуточно. Звоните или WhatsApp."
+    },
+    "tours": {
+      "h": "Туры по Балтии",
+      "lead": "Однодневные поездки и межгородские туры из Риги. Добавьте тур как пункт назначения в заказе.",
+      "cta": "Заказать тур"
+    }
+  }
+}
